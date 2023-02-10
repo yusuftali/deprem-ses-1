@@ -25,6 +25,7 @@ body {
   border-radius: 60px;
   background-color: red;
   text-decoration: none;
+  cursor:pointer;
 }
 #help p {
   color: white;
